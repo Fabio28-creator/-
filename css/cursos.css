@@ -22,7 +22,7 @@ transition:	.25s;
 .cursos	{
 color:	#fff;
 text-align:	center;
-background-image: url(https://raw.githubusercontent.com/Fabio28-creator/-/main/img/students.png);
+background-image: url("https://user-images.githubusercontent.com/106697806/177011715-5b67bc63-239d-483e-871d-df103a08d83b.png");
 background-size:	cover;
 padding-top:	9.5rem;
 display:	flex;
@@ -119,8 +119,8 @@ margin-bottom:	5px;
 @media(min-width:768px)	{
 .cursos	{
 padding:	6rem	5%	0;
-background-image: url(https://raw.githubusercontent.com/Fabio28-creator/-/main/img/students.png);
-}
+background-image: url("https://user-images.githubusercontent.com/106697806/177011715-5b67bc63-239d-483e-871d-df103a08d83b.png");
+  }
 .cursos__chamada	{
 width:	300px;
 align-items:	flex-start;
