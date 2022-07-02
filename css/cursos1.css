@@ -1,0 +1,19 @@
+.cabecalho {
+    color: #fff;
+    text-align: right;
+    background-image: url(../img/laptop.png);
+    background-size: cover;
+    padding-top: 0rem;
+    display: flex;
+    flex-direction: line-height;
+}
+
+.rodape {
+    background-image: url(../img/laptop.png);
+    background-color: #fff;
+    padding: 1rem 10rem%rem% 0;
+    text-align: center;
+    color: #fff;
+    font-size: 0.6rem;
+    font-weight: bold;
+}
